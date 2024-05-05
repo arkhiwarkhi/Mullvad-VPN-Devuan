@@ -16,10 +16,6 @@ chmod +x mullvad-wg.sh
 
 ./mullvad-wg.sh
 
-git clone https://github.com/arkhiwarkhi/Mullvad-VPN-OpenRC
-
-cd Mullvad-VPN-OpenRC
-
 read -p "Please enter what server you would like to use: " server
 
 sed -i "5s/.*/command_args=\"$server\"/" "wireguard"
