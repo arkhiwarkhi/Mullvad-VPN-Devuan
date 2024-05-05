@@ -14,7 +14,7 @@ chmod +x install-mullvad.sh
 doas ./install-mullvad.sh
 ```
 ### Privacy
-No account numbers or other information are collected by me; Mullvad-wg.sh is fetched directly from Mullvad's repositories to receive your account number. If you would like to verify the authenticity of Mullvad-wg.sh, which is fetched and executed during this script's installation of Mullvad VPN, you can do so by executing:
+No account numbers or other information are collected by me; mullvad-wg.sh is fetched directly from Mullvad's repositories to receive your account number. If you would like to verify the authenticity of mullvad-wg.sh, which is fetched and executed during this script's installation of Mullvad VPN, you can do so by executing:
 ```
 curl -o mullvad-wg.sh.asc https://raw.githubusercontent.com/mullvad/mullvad-wg.sh/main/mullvad-wg.sh.asc
 curl -o mullvad-code-signing.asc https://mullvad.net/media/mullvad-code-signing.asc
