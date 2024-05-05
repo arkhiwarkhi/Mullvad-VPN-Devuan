@@ -17,7 +17,7 @@ doas ./install-mullvad.sh
 You are prompted for a server location during install. The default server location is ```gb-lon-wg-001``` (London, England). If you want to change the server you are connecting to post-installation, you will need to edit the ```command_args``` variable in /etc/init.d/wireguard.
 
 ### Privacy
-No account numbers or other information are collected by me; mullvad-wg.sh is fetched directly from Mullvad's repositories to receive your account number. If you would like to verify the authenticity of mullvad-wg.sh, which is fetched and executed during this script's installation of Mullvad VPN, you can do so by executing:
+No account numbers or other information are collected by me; mullvad-wg.sh is fetched directly from Mullvad's repositories for authentication. If you would like to verify the authenticity of mullvad-wg.sh, which is fetched and executed during this script's installation of Mullvad VPN, you can do so by executing:
 ```
 curl -o mullvad-wg.sh.asc https://raw.githubusercontent.com/mullvad/mullvad-wg.sh/main/mullvad-wg.sh.asc
 curl -o mullvad-code-signing.asc https://mullvad.net/media/mullvad-code-signing.asc
