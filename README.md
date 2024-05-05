@@ -1,5 +1,5 @@
 # Mullvad-VPN-OpenRC
-A guide to run Mullvad VPN on OpenRC systems (particularly Devuan via Wireguard).
+A guide to run Mullvad VPN on OpenRC systems (particularly Devuan) via Wireguard.
 
 1. Install WireGuard and dependencies.
 ```
