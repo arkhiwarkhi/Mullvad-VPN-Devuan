@@ -25,6 +25,7 @@ PostUp = iptables -I OUTPUT ! -o %i -m mark ! --mark $(wg show %i fwmark) -m add
 PreDown = iptables -D OUTPUT ! -o %i -m mark ! --mark $(wg show %i fwmark) -m addrtype ! --dst-type LOCAL ! -d 192.168.1.0/24 -j REJECT && ip6tables -D OUTPUT ! -o %i -m mark ! --mark $(wg show %i fwmark) -m addrtype ! --dst-type LOCAL -j REJECT
 ```
 (this enables compatibility with local network)
+
 8. Move the ```wireguard``` file to /etc/init.d/
 ```
 sudo mv wireguard /etc/init.d/
