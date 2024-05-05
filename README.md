@@ -1,9 +1,9 @@
 # Mullvad-VPN-OpenRC
 A guide to run Mullvad VPN on OpenRC systems (particularly Devuan) via Wireguard.
 
-1. Install WireGuard and dependencies.
+1. Install WireGuard and dependencies. (iptables is not listed by Mullvad, but is not installed by default on Devuan systems).
 ```
-sudo apt-get update && sudo apt-get install curl jq openresolv wireguard
+sudo apt-get update && sudo apt-get install curl jq openresolv wireguard iptables
 ```
 2. Download the Mullvad configuration script.
 ```
