@@ -38,4 +38,8 @@ rc-update add wireguard default
 ```
 rc-service wireguard start
 ```
-11. There you go! Mullvad VPN should now work just fine for you. To change servers, you will need to edit /etc/init.d/wireguard and restart.
+11. Verify connection:
+```
+curl https://am.i.mullvad.net/connected
+```
+12. Congrats! Enjoy your freedom, able to torrent as many free Linux ISOs as you'd like.
