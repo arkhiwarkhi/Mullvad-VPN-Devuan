@@ -43,3 +43,11 @@ rc-service wireguard start
 curl https://am.i.mullvad.net/connected
 ```
 12. Congrats! Enjoy your freedom, able to torrent as many free Linux ISOs as you'd like.
+
+## Uninstall
+To disable this software:
+```
+sudo rc-update delete wireguard default
+sudo rm /etc/init.d/wireguard
+```
+You'll also need to uninstall the packages you were directed to install (taking care to retain packages on your system that you may need to keep, like ```curl```).
