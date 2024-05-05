@@ -5,6 +5,7 @@ command="/usr/bin/wg-quick"
 command_args="up gb-lon-wg-001"
 pidfile="/run/${RC_SVCNAME}.pid"
 
+
 depend() {
     need network-manager
     after firewall
