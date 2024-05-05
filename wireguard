@@ -1,0 +1,24 @@
+#!/sbin/openrc-run
+
+description="WireGuard VPN Service"
+command="/usr/bin/wg-quick"
+command_args="up gb-lon-wg-001"
+pidfile="/run/${RC_SVCNAME}.pid"
+
+depend() {
+    need network-manager
+    after firewall
+}
+
+start() {
+    ebegin "Starting WireGuard VPN"
+    start-stop-daemon --start --quiet --pidfile "${pidfile}" --exec "${command}" -- ${command_args} &
+    eend $?
+}
+
+stop() {
+    ebegin "Stopping WireGuard VPN"
+    start-stop-daemon --stop --quiet --pidfile "${pidfile}"
+    ebegin "Executing wg-quick down"
+    eend $?
+}

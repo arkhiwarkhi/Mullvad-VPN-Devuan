@@ -1,0 +1,898 @@
+- Tirana, Albania:
+  $ wg-quick up al-tia-wg-001
+- Tirana, Albania:
+  $ wg-quick up al-tia-wg-002
+- Adelaide, Australia:
+  $ wg-quick up au-adl-wg-301
+- Adelaide, Australia:
+  $ wg-quick up au-adl-wg-302
+- Brisbane, Australia:
+  $ wg-quick up au-bne-wg-301
+- Brisbane, Australia:
+  $ wg-quick up au-bne-wg-302
+- Melbourne, Australia:
+  $ wg-quick up au-mel-wg-301
+- Melbourne, Australia:
+  $ wg-quick up au-mel-wg-302
+- Perth, Australia:
+  $ wg-quick up au-per-wg-301
+- Perth, Australia:
+  $ wg-quick up au-per-wg-302
+- Sydney, Australia:
+  $ wg-quick up au-syd-wg-001
+- Sydney, Australia:
+  $ wg-quick up au-syd-wg-002
+- Sydney, Australia:
+  $ wg-quick up au-syd-wg-003
+- Sydney, Australia:
+  $ wg-quick up au-syd-wg-101
+- Sydney, Australia:
+  $ wg-quick up au-syd-wg-102
+- Sydney, Australia:
+  $ wg-quick up au-syd-wg-103
+- Sydney, Australia:
+  $ wg-quick up au-syd-wg-104
+- Vienna, Austria:
+  $ wg-quick up at-vie-wg-001
+- Vienna, Austria:
+  $ wg-quick up at-vie-wg-002
+- Vienna, Austria:
+  $ wg-quick up at-vie-wg-003
+- Brussels, Belgium:
+  $ wg-quick up be-bru-wg-101
+- Brussels, Belgium:
+  $ wg-quick up be-bru-wg-102
+- Brussels, Belgium:
+  $ wg-quick up be-bru-wg-103
+- Sao Paulo, Brazil:
+  $ wg-quick up br-sao-wg-201
+- Sao Paulo, Brazil:
+  $ wg-quick up br-sao-wg-202
+- Sofia, Bulgaria:
+  $ wg-quick up bg-sof-wg-001
+- Sofia, Bulgaria:
+  $ wg-quick up bg-sof-wg-002
+- Calgary, Canada:
+  $ wg-quick up ca-yyc-wg-201
+- Calgary, Canada:
+  $ wg-quick up ca-yyc-wg-202
+- Montreal, Canada:
+  $ wg-quick up ca-mtr-wg-001
+- Montreal, Canada:
+  $ wg-quick up ca-mtr-wg-002
+- Montreal, Canada:
+  $ wg-quick up ca-mtr-wg-003
+- Montreal, Canada:
+  $ wg-quick up ca-mtr-wg-004
+- Toronto, Canada:
+  $ wg-quick up ca-tor-wg-001
+- Toronto, Canada:
+  $ wg-quick up ca-tor-wg-002
+- Toronto, Canada:
+  $ wg-quick up ca-tor-wg-101
+- Toronto, Canada:
+  $ wg-quick up ca-tor-wg-102
+- Toronto, Canada:
+  $ wg-quick up ca-tor-wg-103
+- Toronto, Canada:
+  $ wg-quick up ca-tor-wg-104
+- Toronto, Canada:
+  $ wg-quick up ca-tor-wg-105
+- Toronto, Canada:
+  $ wg-quick up ca-tor-wg-106
+- Toronto, Canada:
+  $ wg-quick up ca-tor-wg-107
+- Vancouver, Canada:
+  $ wg-quick up ca-van-wg-201
+- Vancouver, Canada:
+  $ wg-quick up ca-van-wg-202
+- Santiago, Chile:
+  $ wg-quick up cl-scl-wg-001
+- Santiago, Chile:
+  $ wg-quick up cl-scl-wg-002
+- Bogota, Colombia:
+  $ wg-quick up co-bog-wg-001
+- Bogota, Colombia:
+  $ wg-quick up co-bog-wg-002
+- Zagreb, Croatia:
+  $ wg-quick up hr-zag-wg-001
+- Zagreb, Croatia:
+  $ wg-quick up hr-zag-wg-002
+- Prague, Czech Republic:
+  $ wg-quick up cz-prg-wg-101
+- Prague, Czech Republic:
+  $ wg-quick up cz-prg-wg-102
+- Prague, Czech Republic:
+  $ wg-quick up cz-prg-wg-201
+- Prague, Czech Republic:
+  $ wg-quick up cz-prg-wg-202
+- Copenhagen, Denmark:
+  $ wg-quick up dk-cph-wg-001
+- Copenhagen, Denmark:
+  $ wg-quick up dk-cph-wg-002
+- Copenhagen, Denmark:
+  $ wg-quick up dk-cph-wg-401
+- Copenhagen, Denmark:
+  $ wg-quick up dk-cph-wg-402
+- Tallinn, Estonia:
+  $ wg-quick up ee-tll-wg-001
+- Tallinn, Estonia:
+  $ wg-quick up ee-tll-wg-002
+- Tallinn, Estonia:
+  $ wg-quick up ee-tll-wg-003
+- Helsinki, Finland:
+  $ wg-quick up fi-hel-wg-001
+- Helsinki, Finland:
+  $ wg-quick up fi-hel-wg-002
+- Helsinki, Finland:
+  $ wg-quick up fi-hel-wg-003
+- Helsinki, Finland:
+  $ wg-quick up fi-hel-wg-101
+- Helsinki, Finland:
+  $ wg-quick up fi-hel-wg-102
+- Helsinki, Finland:
+  $ wg-quick up fi-hel-wg-103
+- Helsinki, Finland:
+  $ wg-quick up fi-hel-wg-104
+- Marseille, France:
+  $ wg-quick up fr-mrs-wg-001
+- Marseille, France:
+  $ wg-quick up fr-mrs-wg-002
+- Paris, France:
+  $ wg-quick up fr-par-wg-001
+- Paris, France:
+  $ wg-quick up fr-par-wg-002
+- Paris, France:
+  $ wg-quick up fr-par-wg-003
+- Paris, France:
+  $ wg-quick up fr-par-wg-004
+- Paris, France:
+  $ wg-quick up fr-par-wg-005
+- Paris, France:
+  $ wg-quick up fr-par-wg-006
+- Paris, France:
+  $ wg-quick up fr-par-wg-101
+- Paris, France:
+  $ wg-quick up fr-par-wg-102
+- Berlin, Germany:
+  $ wg-quick up de-ber-wg-001
+- Berlin, Germany:
+  $ wg-quick up de-ber-wg-002
+- Berlin, Germany:
+  $ wg-quick up de-ber-wg-003
+- Berlin, Germany:
+  $ wg-quick up de-ber-wg-004
+- Berlin, Germany:
+  $ wg-quick up de-ber-wg-005
+- Berlin, Germany:
+  $ wg-quick up de-ber-wg-006
+- Berlin, Germany:
+  $ wg-quick up de-ber-wg-007
+- Dusseldorf, Germany:
+  $ wg-quick up de-dus-wg-001
+- Dusseldorf, Germany:
+  $ wg-quick up de-dus-wg-002
+- Dusseldorf, Germany:
+  $ wg-quick up de-dus-wg-003
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-001
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-002
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-003
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-004
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-005
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-006
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-007
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-008
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-009
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-101
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-102
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-103
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-104
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-105
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-106
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-301
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-302
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-303
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-304
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-401
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-402
+- Frankfurt, Germany:
+  $ wg-quick up de-fra-wg-403
+- Athens, Greece:
+  $ wg-quick up gr-ath-wg-101
+- Athens, Greece:
+  $ wg-quick up gr-ath-wg-102
+- Hong Kong, Hong Kong:
+  $ wg-quick up hk-hkg-wg-201
+- Hong Kong, Hong Kong:
+  $ wg-quick up hk-hkg-wg-202
+- Hong Kong, Hong Kong:
+  $ wg-quick up hk-hkg-wg-301
+- Hong Kong, Hong Kong:
+  $ wg-quick up hk-hkg-wg-302
+- Budapest, Hungary:
+  $ wg-quick up hu-bud-wg-101
+- Budapest, Hungary:
+  $ wg-quick up hu-bud-wg-102
+- Jakarta, Indonesia:
+  $ wg-quick up id-jpu-wg-001
+- Jakarta, Indonesia:
+  $ wg-quick up id-jpu-wg-002
+- Dublin, Ireland:
+  $ wg-quick up ie-dub-wg-101
+- Dublin, Ireland:
+  $ wg-quick up ie-dub-wg-102
+- Tel Aviv, Israel:
+  $ wg-quick up il-tlv-wg-101
+- Tel Aviv, Israel:
+  $ wg-quick up il-tlv-wg-102
+- Tel Aviv, Israel:
+  $ wg-quick up il-tlv-wg-103
+- Milan, Italy:
+  $ wg-quick up it-mil-wg-001
+- Milan, Italy:
+  $ wg-quick up it-mil-wg-002
+- Milan, Italy:
+  $ wg-quick up it-mil-wg-003
+- Milan, Italy:
+  $ wg-quick up it-mil-wg-201
+- Milan, Italy:
+  $ wg-quick up it-mil-wg-202
+- Osaka, Japan:
+  $ wg-quick up jp-osa-wg-001
+- Osaka, Japan:
+  $ wg-quick up jp-osa-wg-002
+- Osaka, Japan:
+  $ wg-quick up jp-osa-wg-003
+- Osaka, Japan:
+  $ wg-quick up jp-osa-wg-004
+- Tokyo, Japan:
+  $ wg-quick up jp-tyo-wg-001
+- Tokyo, Japan:
+  $ wg-quick up jp-tyo-wg-002
+- Tokyo, Japan:
+  $ wg-quick up jp-tyo-wg-201
+- Tokyo, Japan:
+  $ wg-quick up jp-tyo-wg-202
+- Tokyo, Japan:
+  $ wg-quick up jp-tyo-wg-203
+- Riga, Latvia:
+  $ wg-quick up lv-rix-wg-001
+- Queretaro, Mexico:
+  $ wg-quick up mx-qro-wg-001
+- Queretaro, Mexico:
+  $ wg-quick up mx-qro-wg-002
+- Queretaro, Mexico:
+  $ wg-quick up mx-qro-wg-003
+- Queretaro, Mexico:
+  $ wg-quick up mx-qro-wg-004
+- Amsterdam, Netherlands:
+  $ wg-quick up nl-ams-wg-001
+- Amsterdam, Netherlands:
+  $ wg-quick up nl-ams-wg-002
+- Amsterdam, Netherlands:
+  $ wg-quick up nl-ams-wg-003
+- Amsterdam, Netherlands:
+  $ wg-quick up nl-ams-wg-004
+- Amsterdam, Netherlands:
+  $ wg-quick up nl-ams-wg-005
+- Amsterdam, Netherlands:
+  $ wg-quick up nl-ams-wg-006
+- Amsterdam, Netherlands:
+  $ wg-quick up nl-ams-wg-007
+- Amsterdam, Netherlands:
+  $ wg-quick up nl-ams-wg-101
+- Amsterdam, Netherlands:
+  $ wg-quick up nl-ams-wg-102
+- Amsterdam, Netherlands:
+  $ wg-quick up nl-ams-wg-103
+- Amsterdam, Netherlands:
+  $ wg-quick up nl-ams-wg-201
+- Amsterdam, Netherlands:
+  $ wg-quick up nl-ams-wg-202
+- Amsterdam, Netherlands:
+  $ wg-quick up nl-ams-wg-203
+- Auckland, New Zealand:
+  $ wg-quick up nz-akl-wg-301
+- Auckland, New Zealand:
+  $ wg-quick up nz-akl-wg-302
+- Oslo, Norway:
+  $ wg-quick up no-osl-wg-001
+- Oslo, Norway:
+  $ wg-quick up no-osl-wg-002
+- Oslo, Norway:
+  $ wg-quick up no-osl-wg-003
+- Oslo, Norway:
+  $ wg-quick up no-osl-wg-004
+- Oslo, Norway:
+  $ wg-quick up no-osl-wg-005
+- Oslo, Norway:
+  $ wg-quick up no-osl-wg-006
+- Oslo, Norway:
+  $ wg-quick up no-osl-wg-007
+- Oslo, Norway:
+  $ wg-quick up no-osl-wg-008
+- Stavanger, Norway:
+  $ wg-quick up no-svg-wg-001
+- Stavanger, Norway:
+  $ wg-quick up no-svg-wg-002
+- Stavanger, Norway:
+  $ wg-quick up no-svg-wg-003
+- Stavanger, Norway:
+  $ wg-quick up no-svg-wg-004
+- Warsaw, Poland:
+  $ wg-quick up pl-waw-wg-101
+- Warsaw, Poland:
+  $ wg-quick up pl-waw-wg-102
+- Warsaw, Poland:
+  $ wg-quick up pl-waw-wg-103
+- Warsaw, Poland:
+  $ wg-quick up pl-waw-wg-201
+- Warsaw, Poland:
+  $ wg-quick up pl-waw-wg-202
+- Lisbon, Portugal:
+  $ wg-quick up pt-lis-wg-201
+- Lisbon, Portugal:
+  $ wg-quick up pt-lis-wg-202
+- Bucharest, Romania:
+  $ wg-quick up ro-buh-wg-001
+- Bucharest, Romania:
+  $ wg-quick up ro-buh-wg-002
+- Belgrade, Serbia:
+  $ wg-quick up rs-beg-wg-101
+- Belgrade, Serbia:
+  $ wg-quick up rs-beg-wg-102
+- Singapore, Singapore:
+  $ wg-quick up sg-sin-wg-001
+- Singapore, Singapore:
+  $ wg-quick up sg-sin-wg-002
+- Singapore, Singapore:
+  $ wg-quick up sg-sin-wg-003
+- Singapore, Singapore:
+  $ wg-quick up sg-sin-wg-101
+- Singapore, Singapore:
+  $ wg-quick up sg-sin-wg-102
+- Bratislava, Slovakia:
+  $ wg-quick up sk-bts-wg-001
+- Bratislava, Slovakia:
+  $ wg-quick up sk-bts-wg-002
+- Ljubljana, Slovenia:
+  $ wg-quick up si-lju-wg-001
+- Ljubljana, Slovenia:
+  $ wg-quick up si-lju-wg-002
+- Johannesburg, South Africa:
+  $ wg-quick up za-jnb-wg-001
+- Johannesburg, South Africa:
+  $ wg-quick up za-jnb-wg-002
+- Barcelona, Spain:
+  $ wg-quick up es-bcn-wg-001
+- Madrid, Spain:
+  $ wg-quick up es-mad-wg-101
+- Madrid, Spain:
+  $ wg-quick up es-mad-wg-102
+- Madrid, Spain:
+  $ wg-quick up es-mad-wg-201
+- Madrid, Spain:
+  $ wg-quick up es-mad-wg-202
+- Valencia, Spain:
+  $ wg-quick up es-vlc-wg-001
+- Valencia, Spain:
+  $ wg-quick up es-vlc-wg-002
+- Gothenburg, Sweden:
+  $ wg-quick up se-got-wg-001
+- Gothenburg, Sweden:
+  $ wg-quick up se-got-wg-002
+- Gothenburg, Sweden:
+  $ wg-quick up se-got-wg-003
+- Gothenburg, Sweden:
+  $ wg-quick up se-got-wg-004
+- Gothenburg, Sweden:
+  $ wg-quick up se-got-wg-005
+- Gothenburg, Sweden:
+  $ wg-quick up se-got-wg-006
+- Gothenburg, Sweden:
+  $ wg-quick up se-got-wg-007
+- Gothenburg, Sweden:
+  $ wg-quick up se-got-wg-008
+- Gothenburg, Sweden:
+  $ wg-quick up se-got-wg-101
+- Malmö, Sweden:
+  $ wg-quick up se-mma-wg-001
+- Malmö, Sweden:
+  $ wg-quick up se-mma-wg-002
+- Malmö, Sweden:
+  $ wg-quick up se-mma-wg-003
+- Malmö, Sweden:
+  $ wg-quick up se-mma-wg-004
+- Malmö, Sweden:
+  $ wg-quick up se-mma-wg-005
+- Malmö, Sweden:
+  $ wg-quick up se-mma-wg-101
+- Malmö, Sweden:
+  $ wg-quick up se-mma-wg-102
+- Malmö, Sweden:
+  $ wg-quick up se-mma-wg-103
+- Stockholm, Sweden:
+  $ wg-quick up se-sto-wg-001
+- Stockholm, Sweden:
+  $ wg-quick up se-sto-wg-002
+- Stockholm, Sweden:
+  $ wg-quick up se-sto-wg-003
+- Stockholm, Sweden:
+  $ wg-quick up se-sto-wg-004
+- Stockholm, Sweden:
+  $ wg-quick up se-sto-wg-005
+- Stockholm, Sweden:
+  $ wg-quick up se-sto-wg-006
+- Stockholm, Sweden:
+  $ wg-quick up se-sto-wg-008
+- Stockholm, Sweden:
+  $ wg-quick up se-sto-wg-011
+- Stockholm, Sweden:
+  $ wg-quick up se-sto-wg-012
+- Stockholm, Sweden:
+  $ wg-quick up se-sto-wg-014
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-001
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-002
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-003
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-004
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-005
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-006
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-201
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-202
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-401
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-402
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-403
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-404
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-501
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-502
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-503
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-504
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-505
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-506
+- Zurich, Switzerland:
+  $ wg-quick up ch-zrh-wg-507
+- Bangkok, Thailand:
+  $ wg-quick up th-bkk-wg-001
+- Bangkok, Thailand:
+  $ wg-quick up th-bkk-wg-002
+- Glasgow, UK:
+  $ wg-quick up gb-glw-wg-001
+- Glasgow, UK:
+  $ wg-quick up gb-glw-wg-002
+- London, UK:
+  $ wg-quick up gb-lon-wg-001
+- London, UK:
+  $ wg-quick up gb-lon-wg-002
+- London, UK:
+  $ wg-quick up gb-lon-wg-003
+- London, UK:
+  $ wg-quick up gb-lon-wg-004
+- London, UK:
+  $ wg-quick up gb-lon-wg-005
+- London, UK:
+  $ wg-quick up gb-lon-wg-006
+- London, UK:
+  $ wg-quick up gb-lon-wg-007
+- London, UK:
+  $ wg-quick up gb-lon-wg-008
+- London, UK:
+  $ wg-quick up gb-lon-wg-201
+- London, UK:
+  $ wg-quick up gb-lon-wg-202
+- London, UK:
+  $ wg-quick up gb-lon-wg-203
+- London, UK:
+  $ wg-quick up gb-lon-wg-204
+- London, UK:
+  $ wg-quick up gb-lon-wg-301
+- London, UK:
+  $ wg-quick up gb-lon-wg-302
+- London, UK:
+  $ wg-quick up gb-lon-wg-303
+- London, UK:
+  $ wg-quick up gb-lon-wg-304
+- Manchester, UK:
+  $ wg-quick up gb-mnc-wg-001
+- Manchester, UK:
+  $ wg-quick up gb-mnc-wg-002
+- Manchester, UK:
+  $ wg-quick up gb-mnc-wg-003
+- Manchester, UK:
+  $ wg-quick up gb-mnc-wg-004
+- Manchester, UK:
+  $ wg-quick up gb-mnc-wg-005
+- Manchester, UK:
+  $ wg-quick up gb-mnc-wg-006
+- Manchester, UK:
+  $ wg-quick up gb-mnc-wg-007
+- Kyiv, Ukraine:
+  $ wg-quick up ua-iev-wg-001
+- Kyiv, Ukraine:
+  $ wg-quick up ua-iev-wg-002
+- Ashburn, VA, USA:
+  $ wg-quick up us-qas-wg-001
+- Ashburn, VA, USA:
+  $ wg-quick up us-qas-wg-002
+- Ashburn, VA, USA:
+  $ wg-quick up us-qas-wg-003
+- Ashburn, VA, USA:
+  $ wg-quick up us-qas-wg-004
+- Ashburn, VA, USA:
+  $ wg-quick up us-qas-wg-102
+- Ashburn, VA, USA:
+  $ wg-quick up us-qas-wg-103
+- Atlanta, GA, USA:
+  $ wg-quick up us-atl-wg-001
+- Atlanta, GA, USA:
+  $ wg-quick up us-atl-wg-002
+- Atlanta, GA, USA:
+  $ wg-quick up us-atl-wg-101
+- Atlanta, GA, USA:
+  $ wg-quick up us-atl-wg-102
+- Atlanta, GA, USA:
+  $ wg-quick up us-atl-wg-103
+- Atlanta, GA, USA:
+  $ wg-quick up us-atl-wg-104
+- Atlanta, GA, USA:
+  $ wg-quick up us-atl-wg-105
+- Atlanta, GA, USA:
+  $ wg-quick up us-atl-wg-106
+- Atlanta, GA, USA:
+  $ wg-quick up us-atl-wg-107
+- Atlanta, GA, USA:
+  $ wg-quick up us-atl-wg-108
+- Atlanta, GA, USA:
+  $ wg-quick up us-atl-wg-109
+- Atlanta, GA, USA:
+  $ wg-quick up us-atl-wg-110
+- Atlanta, GA, USA:
+  $ wg-quick up us-atl-wg-201
+- Atlanta, GA, USA:
+  $ wg-quick up us-atl-wg-202
+- Atlanta, GA, USA:
+  $ wg-quick up us-atl-wg-203
+- Atlanta, GA, USA:
+  $ wg-quick up us-atl-wg-204
+- Boston, MA, USA:
+  $ wg-quick up us-bos-wg-001
+- Boston, MA, USA:
+  $ wg-quick up us-bos-wg-002
+- Boston, MA, USA:
+  $ wg-quick up us-bos-wg-101
+- Boston, MA, USA:
+  $ wg-quick up us-bos-wg-102
+- Chicago, IL, USA:
+  $ wg-quick up us-chi-wg-001
+- Chicago, IL, USA:
+  $ wg-quick up us-chi-wg-002
+- Chicago, IL, USA:
+  $ wg-quick up us-chi-wg-003
+- Chicago, IL, USA:
+  $ wg-quick up us-chi-wg-004
+- Chicago, IL, USA:
+  $ wg-quick up us-chi-wg-005
+- Chicago, IL, USA:
+  $ wg-quick up us-chi-wg-006
+- Chicago, IL, USA:
+  $ wg-quick up us-chi-wg-007
+- Chicago, IL, USA:
+  $ wg-quick up us-chi-wg-101
+- Chicago, IL, USA:
+  $ wg-quick up us-chi-wg-102
+- Chicago, IL, USA:
+  $ wg-quick up us-chi-wg-103
+- Chicago, IL, USA:
+  $ wg-quick up us-chi-wg-104
+- Chicago, IL, USA:
+  $ wg-quick up us-chi-wg-201
+- Chicago, IL, USA:
+  $ wg-quick up us-chi-wg-202
+- Chicago, IL, USA:
+  $ wg-quick up us-chi-wg-203
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-001
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-002
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-003
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-101
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-102
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-103
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-104
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-105
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-106
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-107
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-108
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-109
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-110
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-301
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-302
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-303
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-401
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-402
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-403
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-501
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-502
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-503
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-504
+- Dallas, TX, USA:
+  $ wg-quick up us-dal-wg-505
+- Denver, CO, USA:
+  $ wg-quick up us-den-wg-001
+- Denver, CO, USA:
+  $ wg-quick up us-den-wg-002
+- Denver, CO, USA:
+  $ wg-quick up us-den-wg-003
+- Denver, CO, USA:
+  $ wg-quick up us-den-wg-101
+- Denver, CO, USA:
+  $ wg-quick up us-den-wg-102
+- Denver, CO, USA:
+  $ wg-quick up us-den-wg-103
+- Detroit, MI, USA:
+  $ wg-quick up us-det-wg-001
+- Detroit, MI, USA:
+  $ wg-quick up us-det-wg-002
+- Houston, TX, USA:
+  $ wg-quick up us-hou-wg-001
+- Houston, TX, USA:
+  $ wg-quick up us-hou-wg-002
+- Houston, TX, USA:
+  $ wg-quick up us-hou-wg-003
+- Houston, TX, USA:
+  $ wg-quick up us-hou-wg-004
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-101
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-102
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-103
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-201
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-202
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-203
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-301
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-302
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-303
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-401
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-402
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-403
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-404
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-405
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-406
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-501
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-502
+- Los Angeles, CA, USA:
+  $ wg-quick up us-lax-wg-503
+- McAllen, TX, USA:
+  $ wg-quick up us-txc-wg-001
+- McAllen, TX, USA:
+  $ wg-quick up us-txc-wg-002
+- Miami, FL, USA:
+  $ wg-quick up us-mia-wg-001
+- Miami, FL, USA:
+  $ wg-quick up us-mia-wg-002
+- Miami, FL, USA:
+  $ wg-quick up us-mia-wg-003
+- Miami, FL, USA:
+  $ wg-quick up us-mia-wg-101
+- Miami, FL, USA:
+  $ wg-quick up us-mia-wg-102
+- Miami, FL, USA:
+  $ wg-quick up us-mia-wg-103
+- Miami, FL, USA:
+  $ wg-quick up us-mia-wg-301
+- Miami, FL, USA:
+  $ wg-quick up us-mia-wg-302
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-301
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-302
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-303
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-401
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-402
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-403
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-404
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-501
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-502
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-503
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-504
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-505
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-506
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-601
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-602
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-603
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-604
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-605
+- New York, NY, USA:
+  $ wg-quick up us-nyc-wg-606
+- Phoenix, AZ, USA:
+  $ wg-quick up us-phx-wg-101
+- Phoenix, AZ, USA:
+  $ wg-quick up us-phx-wg-103
+- Raleigh, NC, USA:
+  $ wg-quick up us-rag-wg-101
+- Raleigh, NC, USA:
+  $ wg-quick up us-rag-wg-102
+- Raleigh, NC, USA:
+  $ wg-quick up us-rag-wg-103
+- Raleigh, NC, USA:
+  $ wg-quick up us-rag-wg-104
+- Raleigh, NC, USA:
+  $ wg-quick up us-rag-wg-105
+- Salt Lake City, UT, USA:
+  $ wg-quick up us-slc-wg-101
+- Salt Lake City, UT, USA:
+  $ wg-quick up us-slc-wg-102
+- Salt Lake City, UT, USA:
+  $ wg-quick up us-slc-wg-103
+- Salt Lake City, UT, USA:
+  $ wg-quick up us-slc-wg-104
+- Salt Lake City, UT, USA:
+  $ wg-quick up us-slc-wg-105
+- Salt Lake City, UT, USA:
+  $ wg-quick up us-slc-wg-106
+- Salt Lake City, UT, USA:
+  $ wg-quick up us-slc-wg-107
+- Salt Lake City, UT, USA:
+  $ wg-quick up us-slc-wg-108
+- Salt Lake City, UT, USA:
+  $ wg-quick up us-slc-wg-109
+- San Jose, CA, USA:
+  $ wg-quick up us-sjc-wg-001
+- San Jose, CA, USA:
+  $ wg-quick up us-sjc-wg-002
+- San Jose, CA, USA:
+  $ wg-quick up us-sjc-wg-003
+- San Jose, CA, USA:
+  $ wg-quick up us-sjc-wg-101
+- San Jose, CA, USA:
+  $ wg-quick up us-sjc-wg-102
+- San Jose, CA, USA:
+  $ wg-quick up us-sjc-wg-103
+- San Jose, CA, USA:
+  $ wg-quick up us-sjc-wg-104
+- San Jose, CA, USA:
+  $ wg-quick up us-sjc-wg-105
+- San Jose, CA, USA:
+  $ wg-quick up us-sjc-wg-106
+- San Jose, CA, USA:
+  $ wg-quick up us-sjc-wg-107
+- San Jose, CA, USA:
+  $ wg-quick up us-sjc-wg-108
+- San Jose, CA, USA:
+  $ wg-quick up us-sjc-wg-301
+- San Jose, CA, USA:
+  $ wg-quick up us-sjc-wg-302
+- San Jose, CA, USA:
+  $ wg-quick up us-sjc-wg-303
+- San Jose, CA, USA:
+  $ wg-quick up us-sjc-wg-401
+- San Jose, CA, USA:
+  $ wg-quick up us-sjc-wg-402
+- Seattle, WA, USA:
+  $ wg-quick up us-sea-wg-001
+- Seattle, WA, USA:
+  $ wg-quick up us-sea-wg-002
+- Seattle, WA, USA:
+  $ wg-quick up us-sea-wg-003
+- Seattle, WA, USA:
+  $ wg-quick up us-sea-wg-101
+- Seattle, WA, USA:
+  $ wg-quick up us-sea-wg-102
+- Seattle, WA, USA:
+  $ wg-quick up us-sea-wg-103
+- Seattle, WA, USA:
+  $ wg-quick up us-sea-wg-201
+- Seattle, WA, USA:
+  $ wg-quick up us-sea-wg-202
+- Seattle, WA, USA:
+  $ wg-quick up us-sea-wg-203
+- Seattle, WA, USA:
+  $ wg-quick up us-sea-wg-204
+- Seattle, WA, USA:
+  $ wg-quick up us-sea-wg-205
+- Seattle, WA, USA:
+  $ wg-quick up us-sea-wg-206
+- Seattle, WA, USA:
+  $ wg-quick up us-sea-wg-207
+- Seattle, WA, USA:
+  $ wg-quick up us-sea-wg-208
+- Seattle, WA, USA:
+  $ wg-quick up us-sea-wg-301
+- Seattle, WA, USA:
+  $ wg-quick up us-sea-wg-302
+- Secaucus, NJ, USA:
+  $ wg-quick up us-uyk-wg-101
+- Secaucus, NJ, USA:
+  $ wg-quick up us-uyk-wg-102
+- Secaucus, NJ, USA:
+  $ wg-quick up us-uyk-wg-103
