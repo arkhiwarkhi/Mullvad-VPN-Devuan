@@ -1,5 +1,5 @@
-# Mullvad-VPN-OpenRC
-A script to install Mullvad VPN on OpenRC & sysvinit systems (particularly Devuan) via Wireguard.
+# Mullvad-VPN-Devuan
+A script to install Mullvad VPN on OpenRC & sysvinit Devuan systems via Wireguard.
 
 1. Clone this repository & change to it's directory.
 ```
