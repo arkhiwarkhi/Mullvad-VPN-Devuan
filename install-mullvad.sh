@@ -35,6 +35,8 @@ else
 	echo "Killswitch not enabled."
 fi
 
+mv wireguard /etc/init.d/
+
 if [ -x /sbin/openrc ]; then
 	rc-update add wireguard default
 	rc-service wireguard start
