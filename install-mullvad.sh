@@ -8,10 +8,10 @@ fi
 echo "Installing Mullvad dependencies.."
 
 apt-get update -y
-#Mullvad does not state iptables is required, but is not installed on Devuan
+# Mullvad does not state iptables is required, but is not installed on Devuan
 apt-get install -y curl jq openresolv wireguard iptables
 
-#Gets Mullvad's authentication script to permit connections
+# Gets Mullvad's authentication script to permit connections
 curl -o mullvad-wg.sh https://raw.githubusercontent.com/mullvad/mullvad-wg.sh/main/mullvad-wg.sh
 
 chmod +x mullvad-wg.sh
