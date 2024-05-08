@@ -88,7 +88,7 @@ if [ $wireguard_service_status -eq 0 ]; then
       		if [ $rc_update_status -eq 0 ]; then
 			rc-service wireguard start
    			rc_service_status=$?
-      			if [ rc_service_status -eq 0 ]; then
+      			if [ $rc_service_status -eq 0 ]; then
 	 			echo "Successfully started wireguard service. Testing connection now."
      				echo "Testing connection..."
 				curl https://am.i.mullvad.net/connected
